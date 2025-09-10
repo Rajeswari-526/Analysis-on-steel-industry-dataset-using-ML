@@ -15,7 +15,7 @@ Attributes(Features)
 | Day_of_week                              | Day of the week (categorical, later one-hot encoded)           |
 | WeekStatus                               | Whether the day is a weekday (1) or weekend (0)                |
 | Load\_Type                               | Type of load (categorical, later encoded into dummy variables) |
-| Usage\_kWh                               | ⚡ **Target Variable** – Power usage in kilowatt-hours         |
+| Usage\_kWh                               |    **Target Variable** – Power usage in kilowatt-hours         |
 | Lagging\_Current\_Reactive.Power\_kVarh  | Lagging current reactive power consumption (kVarh)             |
 | Leading\_Current\_Reactive\_Power\_kVarh | Leading current reactive power consumption (kVarh)             |
 | Lagging\_Current\_Power\_Factor          | Lagging power factor                                           |
